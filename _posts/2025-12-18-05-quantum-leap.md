@@ -7,7 +7,10 @@ categories: future smartphones
 tags: [quantum-computing, photonic-quantum, quantum-co-processor, post-quantum-crypto, quantum-simulation, 2030, 2040]
 ---
 
-# 05. Quantum Leap: When Phones Crack the Uncomputable
+
+
+
+
 
 
 
@@ -61,6 +64,3 @@ The pure silicon chips running your phone today will feel as quaint in fifteen y
 
 Ready for a world where your pocket device holds more raw power than every classical computer in history combined?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/19/06-energy-revolution/">06. Energy Revolution: Batteries That Never Die</a>
-</div>

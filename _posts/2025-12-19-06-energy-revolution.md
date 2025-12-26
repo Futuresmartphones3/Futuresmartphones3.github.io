@@ -7,7 +7,10 @@ categories: future smartphones
 tags: [solid-state-battery, energy-harvesting, structural-battery, silicon-anode, ultra-fast-charging, 2030, 2040]
 ---
 
-# 06. Energy Revolution: Batteries That Never Die
+
+
+
+
 
 
 
@@ -61,6 +64,3 @@ That desperate hunt for a power brick today will have your kids cracking up in f
 
 Ready for a world where your devices are always on—and never thirsty for power?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/20/07-material-revolution/">07. Material Revolution: Devices That Bend, Stretch, and Heal</a>
-</div>

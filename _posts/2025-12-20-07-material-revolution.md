@@ -7,7 +7,10 @@ categories: future smartphones
 tags: [flexible-display, rollable-oled, self-healing-polymer, stretchable-electronics, e-skin, foldable, 2030, 2040]
 ---
 
-# 07. Material Revolution: Devices That Bend, Stretch, and Heal
+
+
+
+
 
 
 
@@ -61,6 +64,3 @@ That brittle glass-and-metal brick in your pocket today will have your kids laug
 
 Ready for a world where your devices bend, stretch, and heal—literally becoming an extension of you?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/21/08-connectivity-revolution/">08. Connectivity Revolution: Always On, Everywhere, Instantly</a>
-</div>
